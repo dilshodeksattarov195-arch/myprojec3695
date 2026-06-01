@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuncrypt",
+        "uuid": 22066540,
+        "checksum": "vd0ta"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
